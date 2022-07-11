@@ -23,9 +23,9 @@
             "address": "0x793DAf78B74aadF1EDA5Cc07A558fed932360a60",
             "startBlock": 13013338,
             "module": [
-                "erc721",
                 "ownable",
-                "pausable"
+                "pausable",
+                "naut"
             ]
         },
         {
