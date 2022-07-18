@@ -1,5 +1,5 @@
 {
-  "name": "wanderverse-subgraph-mainnet",
+  "name": "oz-subgraph-tokens",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,8 +12,7 @@
     "@amxx/graphprotocol-utils": "^1.1.0",
     "@graphprotocol/graph-cli": "^0.29.0",
     "@graphprotocol/graph-ts": "^0.26.0",
-    "@wanderers/subgraphs": "../openzeppelin-subgraphs",
-    "@wanderers/subgraphs-contract-abis": "1.2.0",
-    "@openzeppelin/contracts": "4.7.0"
+    "@openzeppelin/contracts": "4.7.0",
+    "@openzeppelin/subgraphs": "0.1.8-5"
   }
 }
