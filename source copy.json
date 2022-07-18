@@ -1,0 +1,40 @@
+{
+    "output": "generated/wanderverse_mainnet.",
+    "chain": "mainnet",
+    "datasources": [
+        {
+            "address": "0x8184a482A5038B124d933B779E0Ea6e0fb72F54E",
+            "startBlock": 13013338,
+            "module": [
+                "erc721",
+                "ownable"
+            ]
+        },
+        {
+            "address": "0x063eD2D971CdB9361958Adf61c2c49437d70Dc6d",
+            "startBlock": 13723798,
+            "module": [
+                "erc721",
+                "ownable"
+            ]
+        },
+        {
+            "address": "0x793DAf78B74aadF1EDA5Cc07A558fed932360a60",
+            "startBlock": 14456014,
+            "module": [
+                "erc721",
+                "ownable",
+                "pausable"
+            ]
+        },
+        {
+            "address": "0x4D7c1C5657F05B4DAF1E2Ee45d385eFECe56dF84",
+            "startBlock": 14528051,
+            "module": [
+                "erc721",
+                "ownable",
+                "pausable"
+            ]
+        }
+    ]
+}
